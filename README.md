@@ -3,7 +3,7 @@ writejava4me Easy code generation for Java
 
 Works as annotation for annotation.
 User defines new annotation and annotate it with @GeneratesClass annotation.
-@GeneratesClass defines wich class will be generated.
+@GeneratesClass defines which class will be generated.
 
 Example
 -------
